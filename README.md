@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abit Solihin</h1>
-<h3 align="center">A Professional Frontend developer from Indonesia But still Learning Something New Everyday/h3>
+<h3 align="center">A Professional Frontend developer from Indonesia But still Learning Something New Everyday</h3>
 
 <img align="left" src="
 https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
@@ -8,7 +8,7 @@ https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41
 
 <hr></hr>
 
-- 🌱 I’m currently learning **Next 13, Node js, MySQL**
+- 🌱 I’m currently learning **Next 13, Node js, MySQL, Express, MongoDB, ThreeJS**
 
 - 👨‍💻 All of my projects are available at [bitzfolio.pages.dev](bitzfolio.pages.dev)
 
